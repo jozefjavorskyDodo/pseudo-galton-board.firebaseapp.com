@@ -1,0 +1,17 @@
+h1 {
+    margin-left: 33mm;
+    text-decoration: overline underline;
+}
+
+button {
+    margin-left: 26mm;
+    margin-bottom: 4mm;
+}
+
+#annul-UI-state-bttn {
+    visibility: hidden;
+}
+
+table {
+    margin-left: 2cm;
+}
